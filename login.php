@@ -50,7 +50,7 @@
     </header>
     <div style="display: flex; justify-content:space-evenly; align-items: center;">
     <div  class="w3-container" style=" display:inline-block; vertical-align: middle;">
-    <img src="assets/pink.jpg" style="height: 600px; padding: 20px;">
+    <img src="assets/pink.jpg" style="height: 500px; padding: 20px;">
     </div>
     
     <div class="w3-card w3-round" style="display:inline-block; vertical-align: middle; padding: 10px; text-align:center">
